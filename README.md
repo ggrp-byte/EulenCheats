@@ -1,23 +1,21 @@
-## EulenCheats-FiveM
+## HWID-FiveM
 
-|[Download](https://rentry.org/yawd97n3)
+|[Download](patreon.com/HWID962)
 |:------------- |
 
 
-- The most complete and powerful tool for FiveM Lua exec | Dumper | Aimbot | ESP | SHBypass | Resource Blocker | Streamproof
+- The most complete and powerful tool for FiveM 
 ## Easy To Use
-- With no installation process, everything is ready in just a few clicks.
 ## Customizable
-- With several customizations such as changing keys or ESP.
 
-![image](https://github.com/d0udoll/EulenCheats/assets/166282070/caf58d62-acd3-4df7-8394-90b8c1f7b28a)
+![image](https://imgur.com/a/wreCwS9)
 
 ## Main features
-- ESP
-- Aimbot
-- Money drop
-- FiveM Spoofer New*
-- Stream Proof
-- Lua Executor
-- Dumper
-- Resource Blocker.
+- Clear Traces
+- HWID Registry keys
+- Mask your IP Address
+- Disk Serial NumberID
+- Change the HWIDs of everything
+- MAC address
+- Change Monitor HWID
+- Hide Mouse, Keyboard, and Controller serial numbers.
