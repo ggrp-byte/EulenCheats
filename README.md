@@ -8,7 +8,7 @@
 ## Easy To Use
 ## Customizable
 
-![image](https://imgur.com/a/wreCwS9)
+![image]([https://imgur.com/a/wreCwS9](https://i.imgur.com/8dsH90O.png))
 
 ## Main features
 - Clear Traces
